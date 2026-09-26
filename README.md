@@ -1,13 +1,9 @@
 # 👋 Hey, I'm Swarna Lakshmi!
 
 💻 Software Engineer who enjoys building things, solving problems, and occasionally fighting bugs at 2 AM.
-
 🧠 Interested in **software development, problem solving, and building useful products**.
-
 📚 Outside of code, I enjoy **psychology and fiction** — characters and cognitive biases both fascinate me.
-
 ☕ Powered by coffee, curiosity, and questionable debugging decisions.
-
 📫 [LinkedIn](https://www.linkedin.com/in/swarnalakshmi-n/)
 
 ---
