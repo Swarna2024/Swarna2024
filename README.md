@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Swarna Lakshmi!
+# 👋 Hey, I'm Swarna!
 
 💻 Software Engineer who enjoys building things, solving problems, and occasionally fighting bugs at 2 AM.
 
